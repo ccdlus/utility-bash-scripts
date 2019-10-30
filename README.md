@@ -211,3 +211,11 @@ These commands are so easy to use that creating a script for them would be overk
 ```sh
 df
 ```
+
+### ⏰ Show Digital Clock on screen
+
+Script: [digital-clock]  
+
+```sh
+digital-clock
+```
